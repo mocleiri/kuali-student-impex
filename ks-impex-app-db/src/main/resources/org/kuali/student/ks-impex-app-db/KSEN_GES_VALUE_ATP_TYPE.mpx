@@ -1,0 +1,11 @@
+VALUE_ID,ATP_TYPE
+"kuali.fall.spring.max.credits","kuali.atp.type.Fall"
+"kuali.max.repeatable.default","kuali.atp.type.Fall"
+"kuali.max.repeatable.default","kuali.atp.type.HalfFall1"
+"kuali.max.repeatable.default","kuali.atp.type.HalfFall2"
+"kuali.fall.spring.max.credits","kuali.atp.type.Spring"
+"kuali.max.repeatable.default","kuali.atp.type.Spring"
+"kuali.Summer1.max.credits","kuali.atp.type.Summer1"
+"kuali.max.repeatable.default","kuali.atp.type.Summer1"
+"kuali.max.repeatable.default","kuali.atp.type.Summer2"
+"kuali.max.repeatable.default","kuali.atp.type.Winter"
