@@ -1,0 +1,15 @@
+.springBeans
+*.iws
+*.iml
+*.ipr
+.idea
+.project
+.settings
+.classpath
+.externalToolBuilders
+*.log
+*.tlog
+scripts
+catalog.xml
+target
+overlays
